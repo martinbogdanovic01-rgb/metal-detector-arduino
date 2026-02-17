@@ -46,7 +46,7 @@ Detection is based on a **resonant LC circuit**. A coil generates an electromagn
 ![GUI Display](slikazaporfolio2.png)  
 
 ### Project Overview Photo
-![Project Overview](slika za porfolio1.jpg)  
+![Project Overview](slikazaporfolio1.jpg)  
 
 ---
 
