@@ -34,10 +34,19 @@ Detection is based on a **resonant LC circuit**. A coil generates an electromagn
 
 ## **PCB**
 
-The project uses a **custom-designed PCB** integrating the oscillator, Schmitt trigger, amplifier, and resonance tank circuits.
+## **PCB and Circuit Images**
 
-![PCB Image](path-to-your-pcb-image.png)  
-> Replace `path-to-your-pcb-image.png` with the actual PCB image file in your repository.
+### PCB Prototype
+![PCB Prototype](slika4.png)  
+
+### Assembled Metal Detector Board
+![Assembled Board](slikaza3.png)  
+
+### GUI Display Screenshot
+![GUI Display](slikazaporfolio2.png)  
+
+### Project Overview Photo
+![Project Overview](slika za porfolio1.jpg)  
 
 ---
 
